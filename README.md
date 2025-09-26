@@ -72,9 +72,9 @@ def _validation_msgs(d):
 
 Kết quả: 3 test case chạy thành công (PASS). Sinh ra file selenium_report.html.
 4. Ảnh minh họa kết quả
-[4passsed](https://github.com/n23dcpt013-wq/lab08/blob/main/b367c7b9-8818-4e97-bf34-112c470b4a00.png)
+![4passsed](https://github.com/n23dcpt013-wq/lab08/blob/main/b367c7b9-8818-4e97-bf34-112c470b4a00.png)
 
 
-[3passed](https://github.com/n23dcpt013-wq/lab08/blob/main/c89e333a-a8c1-43f2-951a-2121c98f6fee.png)
+![3passed](https://github.com/n23dcpt013-wq/lab08/blob/main/c89e333a-a8c1-43f2-951a-2121c98f6fee.png)
 
 
